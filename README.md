@@ -13,7 +13,7 @@ This is a simple currency converter app built using React Native. It allows user
 
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/Anshul-AB/CurrencyConverter
+   git clone https://github.com/Anshul-AB/Currency-Converter
    ```
 2. Navigate to the project directory.
    ```
